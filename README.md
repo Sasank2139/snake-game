@@ -1,5 +1,7 @@
 # Snake Game 🐍
 
+![Gameplay](screenshot.png)
+
 A classic Snake Game built using Python and the Turtle graphics library.
 
 ## Features
